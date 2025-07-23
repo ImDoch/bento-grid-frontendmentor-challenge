@@ -1,0 +1,20 @@
+:root {
+    --purple-100: hsl(254, 88%, 90%);
+    --purple-500: hsl(256, 67%, 59%);
+    --yellow-100: hsl(31, 66%, 93%);
+    --yellow_500: hsl(39, 100%, 71%);
+    --white: hsl(0, 0%, 100%);
+    --Black: hsl(0, 0%, 7%);
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.8rem;
+}
